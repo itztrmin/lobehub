@@ -3,6 +3,7 @@ resolutionMode: highest
 dedupePeerDependents: true
 ignoreWorkspaceRootCheck: true
 enablePrePostScripts: true
+strictDepBuilds: false
 
 publicHoistPattern:
   - '*@umijs/lint*'
